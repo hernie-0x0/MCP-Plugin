@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "alliance-marketing",
+  "displayName": "The Alliance Marketing",
+  "version": "1.0.0",
+  "description": "Expert-backed product marketing guidance: positioning, messaging, differentiation, pricing, launches, GTM, ICP and sales enablement — grounded in The Alliance's curated practitioner library.",
+  "author": {
+    "name": "The Alliance",
+    "url": "https://github.com/pmalliance"
+  },
+  "homepage": "https://mcp.allianceteam.io/docs",
+  "repository": "https://github.com/pmalliance/mcp-server",
+  "keywords": [
+    "product-marketing",
+    "positioning",
+    "messaging",
+    "go-to-market",
+    "icp",
+    "pmm"
+  ]
+}

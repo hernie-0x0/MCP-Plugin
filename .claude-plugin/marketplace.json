@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "the-alliance",
+  "description": "Product marketing tooling from The Alliance — expert-backed positioning, messaging, GTM and ICP guidance grounded in the PMA content library.",
+  "owner": {
+    "name": "The Alliance",
+    "url": "https://github.com/pmalliance"
+  },
+  "plugins": [
+    {
+      "name": "alliance-marketing",
+      "displayName": "The Alliance Marketing",
+      "source": "./plugin",
+      "description": "Expert-backed product marketing guidance: positioning, messaging, differentiation, pricing, launches, GTM, ICP and sales enablement — grounded in The Alliance's curated practitioner library.",
+      "category": "productivity",
+      "keywords": [
+        "product-marketing",
+        "positioning",
+        "messaging",
+        "go-to-market",
+        "icp",
+        "pmm"
+      ],
+      "homepage": "https://mcp.allianceteam.io/docs",
+      "repository": "https://github.com/hernie-0x0/MCP-Plugin",
+      "author": {
+        "name": "The Alliance"
+      }
+    }
+  ]
+}

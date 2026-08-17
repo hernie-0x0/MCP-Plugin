@@ -1,0 +1,16 @@
+# Local plugin wiring only — the manifests under plugin/ must stay tracked.
+/.mcp.json
+.claude/
+
+# Generated bundles
+build/
+
+# Python bytecode (left over from the server-era tree)
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
